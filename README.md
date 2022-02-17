@@ -7,6 +7,7 @@ Oscar Fossey (ENSAM), Arthur Lejeune (ENSAM) and Clément Eiserloh (ENSAM).
 Find the fastest and robust geometry for a Jansen mecanism.
 
 **Jansen mecanism :**
+
 ![alt text](https://github.com/oscarfossey/Optmisation-Jansen-Mecanism/blob/main/Images/Jansen.JPG)
 
 ## Motivations
@@ -39,6 +40,7 @@ The best geometry has the next nominal lenght:
 **Nominal geometry : [1.43, 3.99, 3.97, 3.56, 3.73, 5.29, 4.36, 3.90, 6.19, 4.71, 4.83, 5.86, 0.78]**
 
 **Visualization of the robustness (path of one of the feet) :**
+
 ![alt text](https://github.com/oscarfossey/Optmisation-Jansen-Mecanism/blob/main/Images/feet_path.JPG)
 
 ## Used packages
