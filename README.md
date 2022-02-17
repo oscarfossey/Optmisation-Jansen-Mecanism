@@ -2,7 +2,7 @@
 
 Oscar Fossey (ENSAM), Arthur Lejeune (ENSAM) and Clément Eiserloh (ENSAM).
 
-##Goal 
+## Goal 
 
 Find the fastest and robust geometry for a Jansen mecanism.
 
